@@ -1,0 +1,38 @@
+.body {
+    font-family: Helvetica;
+    box-sizing: border-box;
+    padding: 0;
+    width: 100%;
+}
+
+header {
+    height: 65px;
+    color: #5f5d60;
+    background-color: #B0E0E6;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 20px;
+}
+.container {
+    width: 100%;
+    text-align: center;
+}
+
+#question {
+    font-size: 30px;
+    color: #5f5d60;
+    background-color: #B0E0E6; 
+    padding: 15px;
+    border: 2px solid rgb(70, 70, 70);
+    border-radius: 8px;
+    margin: 65px;
+}
+
+button {
+    color: #5f5d60;
+    background-color: white;
+    border: 1px solid #B0E0E6;
+    padding: 10px 50px;
+    margin: 0 30px;
+    cursor: pointer;
+}
